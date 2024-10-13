@@ -82,7 +82,7 @@ Make sure to install the following dependencies:
 
 After successfully setting up and running the DAG, you should be able to monitor its execution through the Airflow UI. Below is a screenshot showing the successful execution of all the tasks in the DAG.
 
-
+![Airflow DAG Execution](airflow_results.png)
 
 The DAG shows the following task execution flow:
 1. `unzip_data` – Unzips the downloaded data file.
